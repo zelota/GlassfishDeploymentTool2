@@ -1,0 +1,6 @@
+#surefire
+#Wed Apr 08 20:13:41 CEST 2015
+maven.ext.class.path=/home/peter/netbeans-8.0.2/java/maven-nblib/netbeans-eventspy.jar
+user.dir=/home/peter/git/GlassfishDeploymentTool2/gdt-app
+localRepository=/home/peter/.m2/repository
+basedir=/home/peter/git/GlassfishDeploymentTool2/gdt-app
