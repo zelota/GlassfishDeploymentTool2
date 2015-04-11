@@ -91,6 +91,9 @@
                             <goal>execgdt</goal>
                         </goals>
                         <phase>compile</phase>
+                        <configuration>
+                            <str1>Ez már valami</str1>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
